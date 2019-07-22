@@ -15,12 +15,12 @@ CmdParser::CmdParser(int argc, char const * argv[]){
 	int argumentIndex = 1;
 	for (; argumentIndex <= argumentCount; argumentIndex++){
 		std::string arg(argv[argumentIndex]);
-
 		// Output file 
 		if (arg == "-o"){
 			//todo make this work sammelan
-			if (argumentIndex-2 == argumentCount){
+			if (argumentIndex == argumentCount){
 				e = Error::noOutputFileSpecified;
+				std::cout<<"no output file specified";
 				break;
 			}
 			else {
