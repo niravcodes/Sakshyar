@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"utf",
+				"utf8proc_int32_t"
+			],
+			[
+				"u",
+				"utf8proc_int32_t"
+			],
+			[
+				"ret",
+				"ret_node"
+			],
+			[
+				"pre",
+				"previous_token"
+			],
+			[
+				"inlne",
+				"inline-block\tdisplay"
+			],
+			[
+				"arti",
+				"article-width"
+			],
+			[
+				"conten",
+				"content-width"
+			],
+			[
+				"head",
+				"heading-font"
+			],
+			[
+				"maxframes",
+				"maxframes-databmp"
+			],
+			[
+				"data",
+				"databmp2"
+			],
+			[
+				"max",
+				"maxframes"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"frame",
+				"total_frames"
+			],
+			[
+				"onio",
+				"onionskin"
+			],
+			[
+				"onion",
+				"onionskintoggle"
+			],
+			[
+				"frame_",
+				"frame_number_display"
+			],
+			[
+				"pi",
+				"pixely"
+			],
+			[
+				"body",
+				"body-line-height"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"text",
+				"reading-text-color"
+			],
+			[
+				"english",
+				"english-header-font"
+			],
+			[
+				"search",
+				"search_text"
+			],
+			[
+				"sea",
+				"search_text"
+			],
+			[
+				"raw_",
+				"raw_contacts"
+			],
+			[
+				"state",
+				"contacts_state"
+			],
+			[
+				"chat",
+				"chatmodule_bg"
+			],
+			[
+				"people_list_element",
+				"people_list_element_photo_sq"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"notific",
+				"notification_state"
+			],
+			[
+				"noti",
+				"notification_dropdown"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":package",
+				"Package Control: Install Package"
+			],
+			[
+				":package control",
+				"Package Control: List Packages"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"clear",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/nirav/play/unicode/Devanagari_Lexer/symboltable.C",
+		"/home/nirav/play/unicode/Devanagari_Lexer/code",
+		"/home/nirav/play/unicode/Devanagari_Lexer/lexer.C",
+		"/home/nirav/play/unicode/Devanagari_Lexer/token.h",
+		"/home/nirav/projects/devnirav/all+type/html.sublime-project",
+		"/home/nirav/projects/devnirav/all+type/.gitignore",
+		"/home/nirav/play/unicode/Devanagari_Lexer/makefile",
+		"/home/nirav/play/squaredmd/animator-inator/animations",
+		"/home/nirav/play/squaredmd/matrixdata.h",
+		"/home/nirav/projects/devnirav/type/dmd.html",
+		"/home/nirav/samidha/public/index.html",
+		"/home/nirav/samidha/public/users.html",
+		"/home/nirav/samidha/routes/users.js",
+		"/home/nirav/projects/devnirav/style/_normalize.scss",
+		"/home/nirav/samidha/routes/index.js",
+		"/home/nirav/samidha/public/stylesheets/style.css",
+		"/home/nirav/projects/devnirav/pub1/style/style.css",
+		"/home/nirav/projects/devnirav/style/_responsiveness.scss",
+		"/home/nirav/play/devnirav/nirav.dev/final/postFinal/index.html",
+		"/home/nirav/downloads/License free.txt",
+		"/home/nirav/play/unicode/calc.C",
+		"/home/nirav/downloads/tcc-0.9.27/CodingStyle",
+		"/home/nirav/play/huffman_coding/.tmp/audioha.txt",
+		"/home/nirav/projects/gloome/gloome/_includes/navbar.html",
+		"/home/nirav/assorted/Extras/Files/text/backupMobileNotepad",
+		"/home/nirav/play/huffman_coding/.tmp/lsf.C",
+		"/home/nirav/play/audioha.txt",
+		"/home/nirav/play/huffman_coding/.tmp/photodecompressed",
+		"/home/nirav/rasmi",
+		"/home/nirav/rashmi ",
+		"/home/nirav/assorted/skeletonchild1",
+		"/home/nirav/projects/kuraharu/backuphtml2/js/OverlayScrollbars.min.js",
+		"/home/nirav/assorted/files/text/text/try1",
+		"/home/nirav/assorted/files/text/text/picturepoem",
+		"/home/nirav/assorted/files/text/text/jan11kohinoor",
+		"/home/nirav/assorted/files/text/text/poem",
+		"/home/nirav/assorted/files/text/ahana",
+		"/home/nirav/assorted/files/text/laundry",
+		"/home/nirav/assorted/files/text/Manga I rea.txt",
+		"/home/nirav/assorted/files/text/Passwords.txt",
+		"/home/nirav/assorted/files/text/phrasebit",
+		"/home/nirav/assorted/files/text/pwd.txt",
+		"/home/nirav/assorted/files/text/rantingsofoldwoman.txt",
+		"/home/nirav/assorted/files/text/stranger",
+		"/home/nirav/assorted/files/text/summer",
+		"/home/nirav/assorted/files/text/Techstuff.txt",
+		"/home/nirav/assorted/files/text/text/being a beast",
+		"/home/nirav/assorted/files/text/text/devil",
+		"/home/nirav/projects/jobcat/scss/_animations.scss",
+		"/home/nirav/projects/jobcat/scss/_tidbids.scss",
+		"/home/nirav/projects/jobcat/js/main.js",
+		"/home/nirav/websites/IMG_20190126_202843.txt",
+		"/home/nirav/projects/jobcat/scss/main.scss",
+		"/home/nirav/projects/old/post.css",
+		"/home/nirav/assorted/files/text/bitphrase",
+		"/home/nirav/projects/jobcat/index.htm",
+		"/home/nirav/projects/jobcat/test-grid.htm",
+		"/home/nirav/projects/jobcat/css/main.css",
+		"/home/nirav/projects/nodepractice/fullst/index.js",
+		"/home/nirav/projects/nodepractice/fullst/index.html",
+		"/home/nirav/projects/nodepractice/vue3/a/index.html",
+		"/home/nirav/projects/nodepractice/vue1/vfor.htm",
+		"/home/nirav/projects/nodepractice/vue1/index.htm",
+		"/home/nirav/projects/nodepractice/vue1/reverse.htm",
+		"/home/nirav/projects/learningjs/test1.htm",
+		"/home/nirav/.config/sublime-text-3/Packages/TerminalView/README.md",
+		"/home/nirav/projects/robotics/WRCRoboticsClub.github.io/register/index.html",
+		"/home/nirav/pictures/home",
+		"/home/nirav/projects/kuraharu/release/css/main.css",
+		"/home/nirav/projects/kuraharu/release/js/animate.js",
+		"/home/nirav/projects/kuraharu/release/js/main.js",
+		"/home/nirav/projects/kuraharu/release/index.html",
+		"/home/nirav/AnushaDidiKoKura/a.py",
+		"/home/nirav/projects/kuraharu/release/css/animate.css",
+		"/home/nirav/projects/old/index.htm",
+		"/home/nirav/projects/old/main.css",
+		"/home/nirav/projects/old/home.css",
+		"/media/cdrom0/ReadMe.txt",
+		"/var/www/html/themes/new/list.twig",
+		"/var/www/html/themes/new/css/main.css",
+		"/var/www/html/themes/new/post.twig",
+		"/var/www/html/themes/new/projectlist.twig",
+		"/var/www/html/themes/new/header.twig",
+		"/var/www/html/themes/new/404.twig",
+		"/var/www/html/themes/new/footer.twig",
+		"/var/www/html/themes/new/index.twig",
+		"/home/nirav/projects/nirav/readme.txt",
+		"/home/nirav/projects/nirav/style.css",
+		"/var/www/html/themes/new/headerbackup.twig",
+		"/var/www/html/themes/new/tempTODO",
+		"/var/www/html/themes/new/css/view.css",
+		"/var/www/html/themes/new/css/post.css",
+		"/var/www/html/content/blog/heyhoo.md",
+		"/var/www/html/themes/new/css/home.css",
+		"/var/www/html/themes/new/index.twig.backup",
+		"/home/nirav/projects/nirav/view.htm",
+		"/var/www/html/content/blog/ilikethings.md",
+		"/home/nirav/projects/nirav/post.htm",
+		"/var/www/html/themes/new/include/head.html.twig",
+		"/var/www/html/config/config.yml",
+		"/home/nirav/projects/nirav/index.htm",
+		"/var/www/html/themes/default/index.twig",
+		"/var/www/html/themes/default/README.md",
+		"/var/www/html/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sakshyar.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
